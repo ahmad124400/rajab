@@ -1,0 +1,6 @@
+apt update
+apt install git
+git clone https://github.com/ahmad124400/rajab.git
+cd ahmad
+ls
+bash ahmad.sh
